@@ -1,6 +1,6 @@
 # QAOA-Max-Cut
 
-I solved the most studied problem of Combinatorial optimization, namely, MaxCut by using QAOA. In the python notebook, I have gone through a light leterature review and then build the codes. I have solved two cases of graph, albeit, both are four nodes. The results are accurate in both of the cases. 
+I solved the most studied problem of Combinatorial optimization, namely, MaxCut by using QAOA. In the python notebook, I have gone through a light literature review and then built the codes. I have solved two cases of graph, albeit, both are four nodes. The results are accurate in both of the cases. The reports are situated inside the "reports" folder. There are two formats of the exported report, a html and a pdf.
 
 I have enlisted the all references in at the end of the notebook. To generate this report my two primary resources to study are bulleted below.
 
